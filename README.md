@@ -21,11 +21,12 @@ Es un framework de CSS basado en clases de utilidad. A diferencia de otros frame
 
 ## Instalación
 
-_Aclaración: en esta guía estaremos utilizando `pnpm` como gestor de paquetes. Para instalarlo puedes correr el siguiente comando:_
-
-```bash
-npm i -g pnpm
-```
+> [!NOTE]
+> En esta guía estaremos utilizando `pnpm` como gestor de paquetes. Para instalarlo puedes correr el siguiente comando:
+>
+> ```bash
+> npm i -g pnpm
+> ```
 
 [Ir a la documentación ↗️](https://tailwindcss.com/docs/installation)
 
